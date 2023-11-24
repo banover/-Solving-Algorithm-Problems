@@ -7,8 +7,8 @@ const input = require("fs")
 const towerCount = Number(input[0]);
 const towerHeights = input[1].split(" ").map(Number);
 
-const towerCount = 5;
-const towerHeights = [6, 9, 5, 7, 4];
+// const towerCount = 5;
+// const towerHeights = [6, 9, 5, 7, 4];
 // class Stack {
 //   arr = [];
 
